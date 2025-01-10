@@ -14,7 +14,7 @@
 
 ## About the Project
 
-This Library Management System is a web application built using Next.js and React. It provides a user-friendly interface for managing books, borrowers, and library transactions.
+This Library Management System is a web application built using Next.js and React. **The front-end of this project is a library management site** that provides a user-friendly interface for managing books, borrowers, and library transactions.
 
 ## Tech Stack
 
